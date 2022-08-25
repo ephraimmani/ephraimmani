@@ -11,3 +11,6 @@
 0.0.0.0 www.msftncsi.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 connectivity.office.com
+0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
+0.0.0.0 www.microsoft.com
+0.0.0.0 msftvpn-alt.ras.microsoft.com
