@@ -7,27 +7,27 @@
 ! 0.0.0.0 emea.presence.services.sfb.trafficmanager.net
 ! 0.0.0.0 apac.presence.services.sfb.trafficmanager.net
 ! 0.0.0.0 presence.services.sfb.trafficmanager.net
-!0.0.0.0 www.msftconnecttest.com
-!0.0.0.0 www.msftncsi.com
-!0.0.0.0 dns.msftncsi.com
-!0.0.0.0 connectivity.office.com
-!0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
-!0.0.0.0 www.microsoft.com
-!0.0.0.0 msftvpn-alt.ras.microsoft.com
-!0.0.0.0 trouter2-azsc-auea-0-a.trouter.teams.microsoft.com
-!0.0.0.0 skydrive.wns.windows.com
-!0.0.0.0 trouter2-sece-0-a.trouter.teams.microsoft.com
-!0.0.0.0 trouter2-azsc-jpwe-0-a.trouter.teams.microsoft.com
-!0.0.0.0 trouter2-azsc-auea-0-a.trouter.teams.microsoft.com
-!0.0.0.0 trouter2-azsc-euwe-7-b.trouter.teams.microsoft.com
-!0.0.0.0 mtalk.google.com
-!0.0.0.0 trouter2-azsc-krce-0-a.trouter.teams.microsoft.com
-!0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
-!0.0.0.0 outlook.office365.com
-!0.0.0.0 outlook.office.com
-!0.0.0.0 client.wns.windows.com
-!0.0.0.0 trouter2-azsc-krce-4-b.trouter.teams.microsoft.com
-!0.0.0.0 trouter2-sece-7-b.trouter.teams.microsoft.com
-!0.0.0.0 trouter2-azsc-euwe-10-b.trouter.teams.microsoft.com
-!0.0.0.0 trouter2-azsc-jpwe-6-b.trouter.teams.microsoft.com
-!0.0.0.0 s03-apac.prd.attend.teams.microsoft.com
+! 0.0.0.0 www.msftconnecttest.com
+! 0.0.0.0 www.msftncsi.com
+! 0.0.0.0 dns.msftncsi.com
+! 0.0.0.0 connectivity.office.com
+! 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
+! 0.0.0.0 www.microsoft.com
+! 0.0.0.0 msftvpn-alt.ras.microsoft.com
+! 0.0.0.0 trouter2-azsc-auea-0-a.trouter.teams.microsoft.com
+! 0.0.0.0 skydrive.wns.windows.com
+! 0.0.0.0 trouter2-sece-0-a.trouter.teams.microsoft.com
+! 0.0.0.0 trouter2-azsc-jpwe-0-a.trouter.teams.microsoft.com
+! 0.0.0.0 trouter2-azsc-auea-0-a.trouter.teams.microsoft.com
+! 0.0.0.0 trouter2-azsc-euwe-7-b.trouter.teams.microsoft.com
+! 0.0.0.0 mtalk.google.com
+! 0.0.0.0 trouter2-azsc-krce-0-a.trouter.teams.microsoft.com
+! 0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
+! 0.0.0.0 outlook.office365.com
+! 0.0.0.0 outlook.office.com
+! 0.0.0.0 client.wns.windows.com
+! 0.0.0.0 trouter2-azsc-krce-4-b.trouter.teams.microsoft.com
+! 0.0.0.0 trouter2-sece-7-b.trouter.teams.microsoft.com
+! 0.0.0.0 trouter2-azsc-euwe-10-b.trouter.teams.microsoft.com
+! 0.0.0.0 trouter2-azsc-jpwe-6-b.trouter.teams.microsoft.com
+! 0.0.0.0 s03-apac.prd.attend.teams.microsoft.com
