@@ -26,4 +26,8 @@
 0.0.0.0 outlook.office365.com
 0.0.0.0 outlook.office.com
 0.0.0.0 client.wns.windows.com
-0.0.0.0.0 trouter2-azsc-krce-4-b.trouter.teams.microsoft.com
+0.0.0.0 trouter2-azsc-krce-4-b.trouter.teams.microsoft.com
+0.0.0.0 trouter2-sece-7-b.trouter.teams.microsoft.com
+0.0.0.0 trouter2-azsc-euwe-10-b.trouter.teams.microsoft.com
+0.0.0.0 trouter2-azsc-jpwe-6-b.trouter.teams.microsoft.com
+0.0.0.0 s03-apac.prd.attend.teams.microsoft.com
